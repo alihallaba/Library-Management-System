@@ -69,10 +69,6 @@ Follow the on-screen prompts to interact with the system.
 
 If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request with your improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to all contributors for improving this system!
